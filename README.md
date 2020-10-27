@@ -3,3 +3,7 @@
 A Repository of my exploring with SAS
 
 __CreateData.sas:__ How to construct and print a dataframe in SAS
+
+__findMean.sas:__ Running the `means` procedure in SAS
+
+__3dBarchart.sas:__ Create a 3d horizontal barchart in SAS using the `gchart` procedure
