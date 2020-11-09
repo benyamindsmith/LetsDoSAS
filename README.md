@@ -11,3 +11,9 @@ __3dBarchart.sas:__ Create a 3d horizontal barchart in SAS using the `gchart` pr
 __createfile.sas:__ How to create files and put them in a desired directory
 
 __contentsProcedure.sas:__ Using the SAS `contents` procedure (Self-Explanitory)
+
+__usingOutput,sas:__ Using the `output`function to add data by observation to data set
+
+__dates.sas:__ Inputting and reading date formatted data.
+
+
