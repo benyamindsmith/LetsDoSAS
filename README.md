@@ -16,4 +16,5 @@ __usingOutput,sas:__ Using the `output`function to add data by observation to da
 
 __dates.sas:__ Inputting and reading date formatted data.
 
+__httpRequestAndSQL.sas__: Load raw .csv data from github and transform it with SQL.
 
